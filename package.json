@@ -1,0 +1,52 @@
+{
+  "name": "@stdlib/assert-is-uint16array",
+  "version": "0.0.0",
+  "description": "Test if a value is a Uint16Array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-uint16array.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "uint16array",
+    "uint16",
+    "unsigned",
+    "integer",
+    "int",
+    "uint",
+    "halfword",
+    "short",
+    "word",
+    "typed",
+    "typed array",
+    "typed-array",
+    "array",
+    "is",
+    "isarray",
+    "istypedarray",
+    "type",
+    "check",
+    "validate",
+    "valid",
+    "isvalid",
+    "test"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
